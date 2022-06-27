@@ -21,6 +21,7 @@ function stopMinusTime(bool){
             ItemEvent.length = 0;
             alert(`click button Refresh !`);
             conteurResult = 0;
+            
         }
     }
     else if(bool == true){
